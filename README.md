@@ -7,7 +7,7 @@ The Discord Journal Bot is a chatbot designed to help users keep a journal direc
 - **Journal Entry:** Users can enter their daily journal entry by using the `!journal` command.
 - **Grammar Check:** The bot offers the ability to perform grammar checks on the journal entry using the TextGears API.
 - **Private Storage:** Each user's journal entries are stored privately in separate JSON files.
-- **Delete Entry:** Users can delete their last journal entry using the `!delete` command.
+- **Delete Entry:** Users can delete their last journal entry using the `!delete` command. 
 - **Modular and Extensible:** The code is organized into separate modules for easy maintainability and extensibility.
 
 ## Technologies Used
